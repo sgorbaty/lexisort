@@ -1,5 +1,5 @@
 
-# O ( n*m (log n*m) )
+# O ( n*m (log n) )
 # m is length of string element
 
 def lexicographicsort(args):
